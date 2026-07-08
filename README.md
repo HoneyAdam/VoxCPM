@@ -628,6 +628,7 @@ Full documentation: **[voxcpm.readthedocs.io](https://voxcpm.readthedocs.io/en/l
 | **[vLLM-Omni](https://github.com/vllm-project/vllm-omni)**                  | Official vLLM omni-modal serving for VoxCPM2 — PagedAttention, OpenAI-compatible API             |
 | **[llama.cpp-omni](https://github.com/tc-mb/llama.cpp-omni)**               | Full-duplex omni inference engine — VoxCPM2 GGUF on CPU / Metal / CUDA / Vulkan                   |
 | **[VoxCPM.cpp](https://github.com/bluryar/VoxCPM.cpp)**                     | GGML/GGUF: CPU, CUDA, Vulkan inference                                                           |
+| **[audio.cpp](https://github.com/0xShug0/audio.cpp)**                       | ggml-based unified C++ inference framework — CPU/CUDA/Vulkan/Metal, CLI & server, no Python      |
 | **[VoxCPM-ONNX](https://github.com/bluryar/VoxCPM-ONNX)**                   | ONNX export for CPU inference                                                                    |
 | **[VoxCPMANE](https://github.com/0seba/VoxCPMANE)**                         | Apple Neural Engine backend                                                                      |
 | **[voxcpm_rs](https://github.com/madushan1000/voxcpm_rs)**                  | Rust re-implementation                                                                           |

@@ -618,6 +618,7 @@ python lora_ft_webui.py   # 然后打开 http://localhost:7860
 | [**vLLM-Omni**](https://github.com/vllm-project/vllm-omni) | 官方 vLLM 全模态服务（原生支持 VoxCPM2）— PagedAttention、OpenAI 兼容 API |
 | [**llama.cpp-omni**](https://github.com/tc-mb/llama.cpp-omni) | 全双工全模态推理引擎 — VoxCPM2 GGUF，支持 CPU / Metal / CUDA / Vulkan |
 | [**VoxCPM.cpp**](https://github.com/bluryar/VoxCPM.cpp) | GGML/GGUF：CPU、CUDA、Vulkan 推理 |
+| [**audio.cpp**](https://github.com/0xShug0/audio.cpp) | 基于 ggml 的统一 C++ 推理框架 — CPU/CUDA/Vulkan/Metal，CLI 与服务端，无需 Python |
 | [**VoxCPM-ONNX**](https://github.com/bluryar/VoxCPM-ONNX) | ONNX 导出，支持 CPU 推理 |
 | [**VoxCPMANE**](https://github.com/0seba/VoxCPMANE) | Apple Neural Engine 后端 |
 | [**voxcpm_rs**](https://github.com/madushan1000/voxcpm_rs) | Rust 重新实现 |
